@@ -1,0 +1,45 @@
+ body{
+  
+    background-image :url(./photo/ichigo\ hollow.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+
+
+#logo{
+    background-color: rgb(236, 137, 137);
+    border-radius: 10px;
+    margin-left:10px ;
+}
+#search-anime{
+    
+    width: 22%;
+    margin-left: 43%;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+}
+#my-div .hlo{
+ margin-right: 10px;
+ background-color: brown;
+}
+hr{
+    border: 0;
+    background: skyblue;
+    height: 2px;
+    
+}
+@media screen {
+    /* display: 800px; */
+}
+#nav{
+    justify-content: space-around;
+    align-content: end;
+}
+button{
+
+    height: 60px;
+    width: 120px;
+    color: goldenrod;
+    margin: 30px;
+}
